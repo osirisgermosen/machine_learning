@@ -1,2 +1,2 @@
-# machine_learning
+# Machine Learning
 Pandas, NumPy, Sklearn, Jupiter Notebook
